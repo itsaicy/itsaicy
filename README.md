@@ -1,5 +1,4 @@
 ## Hi there 👋
-## Hi there 👋
 
 I’m Mwerema, a Software Developer and aspiring Data Analyst.
 
